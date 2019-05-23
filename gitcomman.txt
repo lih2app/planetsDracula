@@ -1,0 +1,5 @@
+git init: initializes git folder
+git status: shows the status
+git log: tells the commited changes
+git commit: commit the changes into the .git folder
+git add: 
