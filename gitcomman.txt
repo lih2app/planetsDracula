@@ -2,6 +2,9 @@ git init: initializes git folder
 git status: shows the status
 git log: tells the commited changes
 git commit: commit the changes into the .git folder
+
 git add: prepare changes for commit stautus
 git add -A .: add all the changes in dir and sub dir
 git add filename1.txt filename2.txt: addes two files for commit
+
+git checkout HEAD mars.txt: remove the newest change (HEAD) 
